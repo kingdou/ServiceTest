@@ -31,4 +31,11 @@
         android:text="unbind"
         android:id="@+id/unbind_service"
         android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start IntenteService"
+        android:id="@+id/intent_service"
+        android:layout_gravity="center_horizontal"/>
 </LinearLayout> 
